@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m looking to collaborate and solve some real world problem using Web dev<br>I’m currently learning Next.js<br>Ask me about Web dev and Data Structures and Algorithms
+🔭I’m looking to collaborate and solve some real world problem using Web dev<br>🌱I’m currently learning Next.js<br>💬Ask me about Web dev and Data Structures and Algorithms
 
 
 ## 🌐 Socials:
